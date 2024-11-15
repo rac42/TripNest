@@ -19,9 +19,9 @@ connectDB();
 app.use('/api/users', userRoutes);
 app.use('/api/admin', adminRoutes);
 
-// app.get('/', (req,res) => {
-//     res.send("Backend is up and running!");
-// })
+app.get('/', (req,res) => {
+    res.send("Backend is up and running!");
+})
 
 const PORT = process.env.PORT;
 
