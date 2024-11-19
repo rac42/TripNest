@@ -1,11 +1,11 @@
 import React from 'react';
-
+import logowhite from '../assets/logowhite.svg';
 const Footer = () => {
   return (
     <div className="bg-black px-4 rounded-t-3xl">
       <div className="flex flex-col md:flex-row">
         <section className="w-full md:w-2/5 flex flex-col justify-center gap-3 items-center md:items-start text-center md:text-left">
-          <img src="/src/assets/logowhite.svg" alt="logo" className="w-32 mt-20 md:w-auto" />
+          <img src={logowhite} alt="logo" className="w-32 mt-20 md:w-auto" />
           <pre className="font-gilroy text-white text-lg md:text-xl font-extralight">
             Army Institute of Technology,<br />
             Alandi Rd, Dighi, Pune,<br />
