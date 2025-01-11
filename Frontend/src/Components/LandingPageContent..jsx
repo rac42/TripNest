@@ -1,7 +1,7 @@
 import React from 'react';
 import { Play } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
-import video from '../assets/landingvideo.mp4'
+import video from '../../public/landingvideo.mp4';
 import facebook from '../assets/facebook.png'
 import insta from '../assets/instagram.png'
 import airbnb from '../assets/airbnb.png'
