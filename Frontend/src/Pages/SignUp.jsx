@@ -1,6 +1,6 @@
 import React, { useState } from "react"; // Import useState
 import { FcGoogle } from 'react-icons/fc'; // Import Google icon
-import loginImage from '../assets/loginphoto.png';
+import loginImage from '../../public/assets/Photos/loginPhoto.png';
 import { useNavigate } from "react-router-dom";
 import axios from '../utils/axios';
 
