@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useLocation } from 'react-router-dom';
-import logo from '../../public/assets/Photos/logo.svg';
+import logo from '/assets/Photos/logo.svg';
 import Popup from '../Components/Pop'; // Adjust the path according to your project structure
 import axios from '../utils/axios';
 const SummaryPage = () => {

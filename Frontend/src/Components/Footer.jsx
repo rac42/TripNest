@@ -1,5 +1,5 @@
 import React from 'react';
-import logowhite from '../../public/assets/Photos/logowhite.svg';
+import logowhite from '/assets/Photos/logowhite.svg';
 const Footer = () => {
   return (
     <div className="bg-black px-4 rounded-t-3xl">

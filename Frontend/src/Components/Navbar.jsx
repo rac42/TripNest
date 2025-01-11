@@ -1,6 +1,6 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { NavLink, Link } from 'react-router-dom';
-import logo from '../../public/assets/Photos/logo.svg';
+import logo from '/assets/Photos/logo.svg';
 import { gsap } from 'gsap';
 import {useGSAP} from '@gsap/react'
 import { useNavigate } from 'react-router-dom';

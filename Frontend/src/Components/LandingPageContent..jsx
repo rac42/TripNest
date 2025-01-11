@@ -1,16 +1,16 @@
 import React from 'react';
 import { Play } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
-import video from '../../public/landingvideo.mp4'; // Default import
-import facebook from '../../public/assets/Photos/facebook.png'; // Default import
-import insta from '../../public/assets/Photos/instagram.png'; // Default import
-import airbnb from '../../public/assets/Photos/airbnb.png'; // Default import
-import booking from '../../public/assets/Photos/booking.png'; // Default import
-import trivago from '../../public/assets/Photos/trivago.png'; // Default import
-import ixigo from '../../public/assets/Photos/ixigo.png'; // Default import
-import udaipur from '../../public/assets/Photos/udaipur.jpg'; // Default import
-import agra from '../../public/assets/Photos/agra.png'; // Default import
-import Newdelhi from '../../public/assets/Photos/Newdelhi.png'; // Default import
+import video from '/landingvideo.mp4'; // Default import
+import facebook from '/assets/Photos/facebook.png'; // Default import
+import insta from '/assets/Photos/instagram.png'; // Default import
+import airbnb from '/assets/Photos/airbnb.png'; // Default import
+import booking from '/assets/Photos/Booking.png'; // Default import
+import trivago from '/assets/Photos/trivago.png'; // Default import
+import ixigo from '/assets/Photos/ixigo.png'; // Default import
+import udaipur from '/assets/Photos/udaipur.jpg'; // Default import
+import agra from '/assets/Photos/Agra.png'; // Default import
+import Newdelhi from '/assets/Photos/Newdelhi.png'; // Default import
 
 
 
