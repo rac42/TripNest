@@ -1,16 +1,16 @@
 import React from 'react';
 import { Play } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
-import video from '../../public/landingvideo.mp4';
-import facebook from '../assets/facebook.png'
-import insta from '../assets/instagram.png'
-import airbnb from '../assets/airbnb.png'
-import booking from '../assets/booking.com.png'
-import trivago from '../assets/Trivago.png'
-import ixigo from  '../assets/ixigo.png'
-import udaipur from '../assets/udaipur.jpg'
-import agra from '../assets/agra.png'
-import Newdelhi  from '../assets/Newdelhi.png'
+import {video} from '../../public/landingvideo.mp4';
+import {facebook} from '../assets/facebook.png'
+import {insta} from '../assets/instagram.png'
+import {airbnb} from '../assets/airbnb.png'
+import {booking} from '../assets/booking.png'
+import {trivago} from '../assets/Trivago.png'
+import {ixigo} from  '../assets/ixigo.png'
+import {udaipur} from '../assets/udaipur.jpg'
+import {agra} from '../assets/agra.png'
+import {Newdelhi}  from '../assets/Newdelhi.png'
 
 
 const LandingPageContent = () => {
