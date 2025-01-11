@@ -1,48 +1,48 @@
 @font-face {
      font-family: 'Gilroy';
-     src: url('./assets/fonts/Gilroy-UltraLight.ttf') format('truetype'); /* Correct format */
+     src: url('../public/assets//Fonts/Gilroy-UltraLight.ttf') format('truetype'); /* Correct format */
      font-weight: 100; /* Ultrathin */
      font-style: normal;
    }
    
    @font-face {
      font-family: 'Gilroy';
-     src: url('./assets/fonts/Gilroy-Thin.ttf') format('truetype'); /* Correct format */
+     src: url('../public/assets/Fonts/Gilroy-Thin.ttf') format('truetype'); /* Correct format */
      font-weight: 200; /* Thin */
      font-style: normal;
    }
    
    @font-face {
      font-family: 'Gilroy';
-     src: url('./assets/fonts/Gilroy-Light.ttf') format('truetype'); /* Correct format */
+     src: url('../public/assets/Fonts/Gilroy-SemiBold.ttf') format('truetype'); /* Correct format */
      font-weight: 300; /* Light */
      font-style: normal;
    }
    
    @font-face {
      font-family: 'Gilroy';
-     src: url('./assets/fonts/Gilroy-Regular.ttf') format('truetype'); /* Correct format */
+     src: url('../public/assets/Fonts/Gilroy-Regular.ttf') format('truetype'); /* Correct format */
      font-weight: 400; /* Regular */
      font-style: normal;
    }
    
    @font-face {
      font-family: 'Gilroy';
-     src: url('./assets/fonts/Gilroy-Medium.ttf') format('truetype'); /* Correct format */
+     src: url('../public/assets/Fonts/Gilroy-Medium.ttf') format('truetype'); /* Correct format */
      font-weight: 500; /* Medium */
      font-style: normal;
    }
    
    @font-face {
      font-family: 'Gilroy';
-     src: url('./assets/fonts/Gilroy-SemiBold.ttf') format('truetype'); /* Correct format */
+     src: url('../public/assets/Fonts/Gilroy-SemiBold.ttf') format('truetype'); /* Correct format */
      font-weight: 600; /* Semibold */
      font-style: normal;
    }
    
    @font-face {
      font-family: 'Gilroy';
-     src: url('./assets/fonts/Gilroy-Heavy.ttf') format('truetype'); /* Correct format */
+     src: url('../public/assets/Fonts/Gilroy-Heavy.ttf') format('truetype'); /* Correct format */
      font-weight: 800; /* Heavy */
      font-style: normal;
    }
